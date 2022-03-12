@@ -1,8 +1,5 @@
 # txt dosyasinda satir sayisini sayalim
 
-from turtle import clear
-
-
 customerFile = open("dosya.txt","r")
 sayac = 0
 
